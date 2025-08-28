@@ -5,7 +5,7 @@
   <li>
     <strong>Monitoring & Evaluation Systems</strong><br>
     <a href="https://juritrustcentre.org/images/map.jpeg">Designed and implemented tracking frameworks for Juritrust Centre:</a>
-    <ul> A research on behavioral insights and ethical norms in justice administration in Nigeria.</ul> </li>
+    <ul> A research on behavioral insights and ethical norms in justice administration in Nigeria.</ul> </li> ,br>
   <li>
     <strong>Remote technical assistant:</strong><br>
     <a href="http://Softwarecdkeys.com">Support assistant at Softwarecdkeys:</a> 
@@ -13,22 +13,39 @@
   </li>
 </ul>
   
-<h2>Software Projects (via ALX Africa):</h2>
+<h2>👨‍💻Software Projects (Backend):</h2>
     <ul>
-      <li><a href="https://example.com/booking-app">Hospital Appointment Booking App</a> – Web app for queue reduction.</li>
-      <li><a href="https://example.com/custom-shell">Custom Shell in C</a> – Built from scratch as a systems programming exercise.</li>
-      <li><a href="https://example.com/portfolio-site">Portfolio Website</a> – Developed with HTML, CSS, and JS.</li>
-      <li><a href="https://example.com/team-collab">Team Collaboration Tools</a> – Git, GitHub, Agile boards, CI/CD basics.</li>
-    </ul>
-  </li>
-</ul>
+       <li><a href="https://github.com/Ani-John/simple_shell">Custom Shell with C Programming</a> 
+         <ul>A custom command line interface for navigating the terminal in a Unix-based environment </ul>
+      <li><a href="https://github.com/Ani-John/alx-system_engineering-devops">System Engineering and Devops</a> 
+        <ul>A mini list of bash scripts for various navigation and automation </ul>
+   </ul>
+
+
+<h2>👨‍💻Software Projects (Frontend):</h2>
+    <ul>
+      <li><a href="https://www.canva.com/design/DAGrYGUXKn0/IAqOBMEC0BtMZpx63hswKA/watch?utm_content=DAGrYGUXKn0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2ce37c56d2">Hospital Appointment Booking App:</a></li> <b>(Wireframe) </b>
+      <ul>A web app for managing hospital appointments to reduce long queues at public hospitals in Nigeria - 🪧Frontend completed pending Backend Integration🪧) </ul>
+
+<h2>🤵Portfolio Site:</h2>
+<li><a href="https://sites.google.com/view/anijohn/home">Digital Portfolio Site</a> 
   
 <h2> 🤳 Connect with me:</h2>
 
-<[<img align="left" alt="Aniebiet John | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Aniebiet John | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Aniebiet John | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Aniebiet John | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### 🌐 Connect with me
+
+<p align="left">
+  <a href="https://x.com/Aniebietjohn">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/anijohn/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/j_aniebiet/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
