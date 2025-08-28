@@ -5,7 +5,7 @@
   <li>
     <strong>Monitoring & Evaluation Systems</strong><br>
     <a href="https://juritrustcentre.org/images/map.jpeg">Designed and implemented tracking frameworks for Juritrust Centre:</a>
-    <ul> A research on behavioral insights and ethical norms in justice administration in Nigeria.</ul> </li> ,br>
+    <ul> A research on behavioral insights and ethical norms in justice administration in Nigeria.</ul> 
   <li>
     <strong>Remote technical assistant:</strong><br>
     <a href="http://Softwarecdkeys.com">Support assistant at Softwarecdkeys:</a> 
@@ -24,16 +24,17 @@
 
 <h2>👨‍💻Software Projects (Frontend):</h2>
     <ul>
-      <li><a href="https://www.canva.com/design/DAGrYGUXKn0/IAqOBMEC0BtMZpx63hswKA/watch?utm_content=DAGrYGUXKn0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2ce37c56d2">Hospital Appointment Booking App:</a></li> <b>(Wireframe) </b>
+      <li><a href="https://www.canva.com/design/DAGrYGUXKn0/IAqOBMEC0BtMZpx63hswKA/watch?utm_content=DAGrYGUXKn0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2ce37c56d2">Hospital Appointment Booking App:</a><b>(Wireframe) </b>
       <ul>A web app for managing hospital appointments to reduce long queues at public hospitals in Nigeria - 🪧Frontend completed pending Backend Integration🪧) </ul>
+      </ul>
 
 <h2>🤵Portfolio Site:</h2>
-<li><a href="https://sites.google.com/view/anijohn/home">Digital Portfolio Site</a> 
+<ul>
+ <li><a href="https://sites.google.com/view/anijohn/home">Digital Portfolio Site</a></ul>
+ <br><br>
   
 <h2> 🤳 Connect with me:</h2>
-
-### 🌐 Connect with me
-
+🌐
 <p align="left">
   <a href="https://x.com/Aniebietjohn">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
