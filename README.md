@@ -4,7 +4,7 @@
 <ul>
   <li>
     <strong>Monitoring & Evaluation Systems</strong><br>
-    <a href="https://juritrustcentre.org/images/map.jpeg">Designed and implemented tracking frameworks for Juritrust Centre:</a>
+    <a href="https://juritrustcentre.org/narrative-report-of-the-behavioural-insights-and-ethical-norms-in-justice-administration-study-2023/">Designed and implemented tracking frameworks for Juritrust Centre:</a>
     <ul> A research on behavioral insights and ethical norms in justice administration in Nigeria.</ul> 
   <li>
     <strong>Remote technical assistant:</strong><br>
