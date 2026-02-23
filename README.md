@@ -5,11 +5,11 @@
   <li>
     <strong>Monitoring & Evaluation Systems</strong><br>
     <a href="https://juritrustcentre.org/narrative-report-of-the-behavioural-insights-and-ethical-norms-in-justice-administration-study-2023/">Designed and implemented tracking frameworks for Juritrust Centre:</a>
-    <ul> A research on behavioral insights and ethical norms in justice administration in Nigeria.</ul> 
+    <ul> Facilitated research on behavioural insights and ethical norms in justice administration in Nigeria.</ul> 
   <li>
     <strong>Remote technical assistant:</strong><br>
-    <a href="https://www.licenze.co">Support assistant at Softwarecdkeys:</a> 
-    <ul> A subsidiary of DesignTalent LLC. </ul>
+    <a href="https://www.licenze.co">Support assistant at Lincenze:</a> 
+    <ul> Lincenze is a subsidiary of DesignTalent LLC. </ul>
   </li>
 </ul>
   
