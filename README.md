@@ -8,7 +8,7 @@
     <ul> A research on behavioral insights and ethical norms in justice administration in Nigeria.</ul> 
   <li>
     <strong>Remote technical assistant:</strong><br>
-    <a href="http://Softwarecdkeys.com">Support assistant at Softwarecdkeys:</a> 
+    <a href="https://www.licenze.co">Support assistant at Softwarecdkeys:</a> 
     <ul> A subsidiary of DesignTalent LLC. </ul>
   </li>
 </ul>
