@@ -1,6 +1,6 @@
 <h1>Hi, I'm Aniebiet John! 💻<br/><a href="https://github.com/Ani-John">Programmer</a> || <a href="https://www.linkedin.com/in/aniebietjohn/"> Tech Enthusiast</a> || <a href="https://sites.google.com/d/1bYWDvAHiEzNvjv0-BcBMqgNqZ7XNkPJm/p/1GCgrcyRcCvuS-7bc83fMm5-an4GLrHAc/edit?pli=1">Virtual Assistant</a></h1>
 
-<h2>🛜 Virtual Assistant</h2>
+<h2>🛜 Career</h2>
 <ul>
   <li>
     <strong>Monitoring & Evaluation Systems - Juritrust Centre </strong><br>
