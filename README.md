@@ -3,13 +3,13 @@
 <h2>🛜 Virtual Assistant</h2>
 <ul>
   <li>
-    <strong>Monitoring & Evaluation Systems</strong><br>
+    <strong>Monitoring & Evaluation Systems - Juritrust Centre </strong><br>
     <a href="https://juritrustcentre.org/narrative-report-of-the-behavioural-insights-and-ethical-norms-in-justice-administration-study-2023/">Designed and implemented tracking frameworks for Juritrust Centre:</a>
     <ul> Facilitated research on behavioural insights and ethical norms in justice administration in Nigeria.</ul> 
   <li>
-    <strong>Remote technical assistant:</strong><br>
+    <strong>Remote technical assistant - DesignTalent LLC</strong><br>
     <a href="https://www.licenze.co">Support assistant at Lincenze:</a> 
-    <ul> Lincenze is a subsidiary of DesignTalent LLC. </ul>
+    <ul> A subsidiary of DesignTalent LLC. </ul>
   </li>
 </ul>
   
