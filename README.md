@@ -8,7 +8,7 @@
     <ul> Facilitated research on behavioural insights and ethical norms in justice administration in Nigeria.</ul> 
   <li>
     <strong>Remote technical assistant - DesignTalent LLC</strong><br>
-    <a href="https://www.licenze.co">Support assistant at Lincenze:</a> 
+    <a href="https://www.licenze.co">Support assistant at Licenze:</a> 
     <ul> A subsidiary of DesignTalent LLC. </ul>
   </li>
 </ul>
