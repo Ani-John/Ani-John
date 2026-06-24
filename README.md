@@ -5,13 +5,11 @@
 <li>
     <strong> Founder - DigitalHallway </strong><br>
         <ul> Your Go-To Digital Tools and Solutions Center</ul> 
-  <li>
 
 <li>
     <strong> Technical Team Lead </strong><br>
     <a href="https://www.fecundtechnologies.com.ng/about"> Fecund Technologies:</a>
     <ul> Specialized in delivering enterprise-grade technology solutions — from Microsoft Dynamics 365 deployments, IT strategy consulting, and comprehensive branding services.</ul> 
-  <li>
   
   <li>
     <strong>Monitoring & Evaluation Systems - Juritrust Centre </strong><br>
