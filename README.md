@@ -2,6 +2,17 @@
 
 <h2>🛜 Career</h2>
 <ul>
+<li>
+    <strong> Founder - DigitalHallway </strong><br>
+        <ul> Your Go-To Digital Tools and Solutions Center</ul> 
+  <li>
+
+<li>
+    <strong> Technical Team Lead </strong><br>
+    <a href="https://www.fecundtechnologies.com.ng/about"> Fecund Technologies:</a>
+    <ul> Specialized in delivering enterprise-grade technology solutions — from Microsoft Dynamics 365 deployments, IT strategy consulting, and comprehensive branding services.</ul> 
+  <li>
+  
   <li>
     <strong>Monitoring & Evaluation Systems - Juritrust Centre </strong><br>
     <a href="https://juritrustcentre.org/narrative-report-of-the-behavioural-insights-and-ethical-norms-in-justice-administration-study-2023/">Designed and implemented tracking frameworks for Juritrust Centre:</a>
